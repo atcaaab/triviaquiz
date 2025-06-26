@@ -1,0 +1,7 @@
+# app-ads.txt example file:
+greenadexchange.com, 12345, DIRECT, d75815a79
+silverssp.com, 9675, RESELLER, 496211
+blueadexchange.com, XF436, DIRECT
+orangeexchange.com, 45678, RESELLER
+silverssp.com, ABE679, RESELLER
+https://better-lens-4f1.notion.site/Developer-account-Trivia-Quiz-Brain-Boost-21e35f258c18806d84b0e807222f0e4b?source=copy_link, pub-9566810867444937, DIRECT, f08c47fec0942fa0
